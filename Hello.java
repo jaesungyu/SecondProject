@@ -3,6 +3,7 @@ public class Hello{
 {
 	System.out.println("Hello Git");
 	System.out.println("YA~~ Git");
-	}
+	System.out.println("what's DVCS?");
+}
 	
 }
